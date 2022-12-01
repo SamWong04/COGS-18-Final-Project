@@ -19,6 +19,7 @@ Why I made this game:
   <img src="my_module/res/Demo.png" width="500" />
   <img src="my_module/res/GameOver.png" width="500" /> 
 </p>
+
 ## Approach
 1. You use relevant modules (from standard library and external sources):
 - I realize this game with basic OOP and pygame, they are necessary for this game. Using class as object ensures the low complexity of coding and pygame lib provides the essential methods to build a game, including the input of songs and images and the process of collision between objects, like the bullets and the plane.
