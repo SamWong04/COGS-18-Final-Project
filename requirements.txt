@@ -1,0 +1,5 @@
+Please install pygame lib before start the “Samuel Wang Thunder Raid.py” in "my_module" folder
+You can use "pip install pygame" in the command line to install this lib
+
+In order to run the "test.py", please install "pytest" lib. Do not directly run the 'test.py'.
+Please run the file by using command line: "pytest test.py"
